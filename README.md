@@ -3,3 +3,5 @@
 - A discount calculator
 - Username varification code
 - Game Roulett
+- Password generator
+- Practice code
